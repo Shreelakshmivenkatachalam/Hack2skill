@@ -1,6 +1,6 @@
 # Signsage: Sign Language to Text Translator website for Inclusive Education
 
-**Signsage** signsage is a Python based program designed to minimize the communication barrier between the deaf community and the hearing impaired in educational classes. It uses sign language recognition in real-time to provide text translations for the hand gestures used offering a natural interface for the students and the teachers.
+  Signsage is a Python based program designed to minimize the communication barrier between the deaf community and the hearing impaired in educational classes. It uses sign language recognition in real-time to provide text translations for the hand gestures used offering a natural interface for the students and the teachers.
 
 **Key Features:**
 
