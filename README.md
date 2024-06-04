@@ -16,6 +16,12 @@
 - Scikit-learn
 - Flask
 
+  
+
+https://github.com/Shreelakshmivenkatachalam/Hack2skill/assets/138895487/e40b20cc-9f80-4fe5-98d3-f3f54d09221b
+
+
+
 ## Words availabe for interpretation
 | Letter | Words                                     |
 |--------|-------------------------------------------|
